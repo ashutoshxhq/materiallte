@@ -1,0 +1,16 @@
+{
+  "name": "materiallte",
+  "version": "1.0.0",
+  "description": "A materail admin panel",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "material",
+    "admin-panel",
+    "template"
+  ],
+  "author": "idkashutosh",
+  "license": "ISC"
+}
